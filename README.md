@@ -1,4 +1,4 @@
-# Attendance-Calculator
+
 <html>
 <head>
     <title>Attendance Calculator</title>
